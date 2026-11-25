@@ -1,0 +1,19 @@
+{
+  "name": "探店笔记工坊",
+  "short_name": "探店工坊",
+  "description": "探店博主的批量写稿与笔记管理工具",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff8f3",
+  "theme_color": "#ff6b35",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
